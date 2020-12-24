@@ -1,10 +1,7 @@
 # CSProblems
 
-This is my repo for files which solve traditional computer science problems.
+This is my repo for files which solve traditional computer science problems. This repo also includes files for Project Euler problems in `Python`, `C` and `C++`.
 
-### Planned Problems
+### Traditional Problems
 - [x] N-Queen problem
-    - [x] `Python`
-    - [ ] `C++`
 - [x] Tower of Hanoi
-- [ ] Sudoku
